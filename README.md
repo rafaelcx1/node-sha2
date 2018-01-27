@@ -1,6 +1,6 @@
-# `sha2`
+# A _Node.js_ module for SHA-2
 
- This Javascript module implements [the **SHA-2 (Secure Hash Algorithm 2)** cryptographic hash function family](https://en.wikipedia.org/wiki/SHA-2) designed by _the United States National Security Agency (NSA)_<sub> ― **SHA-224**, **SHA-256**, **SHA-384**, **SHA-512**, and **SHA-512/t** (including **SHA-512/224** and **SHA-512/256**)</sub>.
+ This Javascript module implements [the **SHA-2 (Secure Hash Algorithm 2)** cryptographic hash function family](https://en.wikipedia.org/wiki/SHA-2) designed by _the United States National Security Agency (NSA)_ ― **SHA-224**, **SHA-256**, **SHA-384**, **SHA-512**, and **SHA-512/t** (including **SHA-512/224** and **SHA-512/256**).
 It makes use of [the `crypto` standard built-in module](https://github.com/nodejs/node/blob/master/lib/crypto.js) if the module is available, otherwise, an alternative Javascript implementation for SHA-2 that I developed is used.
 
 

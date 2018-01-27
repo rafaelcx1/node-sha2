@@ -1,6 +1,6 @@
 {
 	"name": "sha2",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Javascript implementation of the SHA-2 cryptographic hash function family.",
 	"author": {
 		"name": "K.",

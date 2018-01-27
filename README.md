@@ -10,6 +10,8 @@ It makes use of [the `crypto` standard built-in module](https://github.com/nodej
 npm install sha2
 ```
 
+ Note that this module works with [`Buffer`](https://nodejs.org/api/buffer.html)s. As for web browsers that don't have [`Buffer`](https://nodejs.org/api/buffer.html)s, you may use [_**SHA2.js** for web browsers_](https://github.com/wlzla000/SHA2.js) instead.
+
 
 ## Usage
 
